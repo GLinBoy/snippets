@@ -18,7 +18,8 @@
     },
     "windows": [
       {
-        "title": "snippets",
+        "label": "snippets",
+        "title": "Snippets",
         "width": 800,
         "height": 600
       }
@@ -37,6 +38,10 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ]
+    },
+    "systemTray": {
+      "iconPath": "icons/icon.png",
+      "iconAsTemplate": true
     }
   }
 }
